@@ -22,3 +22,8 @@ opponent's army. Each output should be in seperate line.
 |   1   | [main.cpp](./main.cpp)     | Solution file.                                             |
 |   2   | [input](./input)           | Test input file from problem statement                     |
 |   3   | [input2](./input2)         | Larger test input from udebug                              |
+|   4   | [10055.pdf](./10055.pdf)   | PDF file for problem                                       |
+
+### Instructions
+
+- This project was compiled using C++ 17
