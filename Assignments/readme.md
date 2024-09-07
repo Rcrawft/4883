@@ -1,4 +1,4 @@
 ## Assignments 
 |  #  | Folder Link                       | Assignment Description                              |
 | :-: | --------------------------------- | --------------------------------------------------- |
-|  0  | Link 0                            | Description 0                                       |
+|  1  | [Link 1](./P10055)                | Problem P10055: Hashmat the Brave Warrior           |
