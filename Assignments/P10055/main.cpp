@@ -11,7 +11,6 @@ int main() {
       break;
     cout << abs(a - b) << endl;
   }
-  cout << endl;
 
   return 0;
 }
