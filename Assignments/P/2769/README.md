@@ -41,7 +41,7 @@ Apply the following operation twice to make the maximum achievable number equal 
 
 |   #   | File                       | Description                                                |
 | :---: | -------------------------- | ---------------------------------------------------------- |
-|   1   | [946.cpp](./946.cpp)      | Solution file.                                             |
+|   1   | [2769.cpp](./2769.cpp)     | Solution file.                                             |
 
 ### Instructions
 
