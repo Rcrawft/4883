@@ -40,4 +40,12 @@ Output: [[0,3],[5,0]]
     1 <= heighti <= 231 - 1
     buildings is sorted by lefti in non-decreasing order.
 
+|   #   | File                       | Description                                                |
+| :---: | -------------------------- | ---------------------------------------------------------- |
+|   1   | [A09.cpp](./A09.cpp)       | Solution file.                                             |
+
+### Instructions
+
+- This project was compiled using C++ 17
+
 
