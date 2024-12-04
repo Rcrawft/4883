@@ -1,7 +1,7 @@
 ## Assignments 
 |  #  | Folder Link                       | Assignment Description                              |
 | :-: | --------------------------------- | --------------------------------------------------- |
-|  1  | [P10055](./P10055)                | Problem 10055: Hashmat the Brave Warrior            |
+|  1  | [A03](./P10055)                | Problem 10055: Hashmat the Brave Warrior (A03)           |
 |  2  | [10783](./10783)                  | Problem 10783: Odd Sum                              |
 |  3  | [Easy Breezy](./P)                | LeetCode Problems(Easy Breezy)                      |
 |  4  | [A06](./A06)                      | A06: Hardwood Sneezy                                |
